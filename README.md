@@ -264,6 +264,11 @@ If you like my work and want to support me, consider:
 
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,6,11,20&height=150&section=footer&text=Thank%20You!&fontSize=30&fontColor=white&animation=fadeIn&fontAlignY=75"/>
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</div>
+
 
 <div align="center">
   
