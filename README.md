@@ -190,15 +190,6 @@ Smart Instagram content downloader bot
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Activity Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sushilcodex01/sushilcodex01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sushilcodex01/sushilcodex01/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sushilcodex01/sushilcodex01/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
