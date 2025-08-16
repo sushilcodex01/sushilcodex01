@@ -170,6 +170,8 @@ Smart Instagram content downloader bot
 
 </td>
 </tr>
+[![ visit all repository](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/sushilcodex01?tab=repositories)
+
 </table>
 
 </div>
